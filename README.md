@@ -1,29 +1,22 @@
 # 🩺 MedAI Insights - Medical Diagnosis Application
 
-**MedAI Insights** is an advanced medical diagnosis application that leverages artificial intelligence to analyze chest X-rays and provide medical consultations through a chatbot interface. The platform is designed to assist healthcare professionals by providing AI-driven insights into patient conditions.
+## Overview
+MedAI Insights is an advanced medical diagnosis application leveraging AI for chest X-ray analysis and medical consultations. It assists healthcare professionals and individuals by providing automated disease predictions and detailed medical descriptions, powered by machine learning models and the Groq API.
 
 ## Features
-
-- **AI-powered X-Ray Diagnosis**: Accurately diagnoses lung diseases from chest X-ray images using machine learning models.
-- **Medical Chatbot**: A conversational AI for answering medical queries and providing healthcare advice.
-- **Comprehensive Health Resources**: Access to detailed health resources for various diseases.
-- **Detailed Disease Information**: Information about different diseases based on diagnostic results.
+- **AI-powered X-Ray Diagnosis**: Predicts lung diseases from chest X-rays with advanced deep learning models.
+- **Medical Chatbot**: Offers AI-powered health consultations and general medical advice.
+- **Comprehensive Health Resources**: Provides detailed descriptions of medical conditions.
+- **Detailed Disease Information**: Includes information on symptoms, causes, diagnostics, treatments, and prevention for top predicted diseases.
 
 ## Setup Instructions
 
 ### Prerequisites
-
-Before setting up **MedAI Insights**, ensure that you have the following:
-
-- Python 3.8 or higher
-- Groq API Key for AI processing
+- Python 3.8+
+- Groq API Key (for AI-powered chatbot and disease description)
 
 ### Installation
-
-Follow these steps to set up the project:
-
 1. **Clone the repository**:
-
    ```bash
-   git clone https://github.com/sajjadahmad-dev/medai-insights.git
-
+   git clone https://github.com/yourusername/MedAI-Insights.git
+   cd MedAI-Insights
